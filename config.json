@@ -1,8 +1,8 @@
 {
-  "prefix": "kate ",
-  "ownerID": ["250322741406859265", "458805348669718559", "811770910624579584"],
-  "restatusActivity": {
-    "text": "kate.rest",
-    "type": "PLAYING"
-  }
+	"prefix": "kate.",
+	"ownerID": ["250322741406859265", "458805348669718559", "811770910624579584"],
+	"restatusActivity": {
+		"text": "kate.rest",
+		"type": "PLAYING"
+	}
 }
