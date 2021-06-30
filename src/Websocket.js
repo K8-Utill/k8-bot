@@ -6,7 +6,7 @@ module.exports = class Websocket {
 	}
 	/**
 	 * @param {('layoutUpdate'|'colorUpdate')} event
-	 * @param {(e) => void} listener
+	 * @param {(...args) => void} listener
 	 */
 
 	on(event, listener) {
